@@ -1,1 +1,2 @@
-# Walmart_Python_SQL_Project
+# Walmart Data Analysis : End-to-End SQL + Python Project 
+![Walmart Logo]()
